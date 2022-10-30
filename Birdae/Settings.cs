@@ -7,4 +7,6 @@ public class Settings {
 	public int rollNumber;
 	public TimeSpan rollRestoreTime;
 	public TimeSpan claimRestoreTime;
+
+	public ulong adminGuildId;
 }
